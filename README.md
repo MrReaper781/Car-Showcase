@@ -10,20 +10,20 @@ A **full-stack MERN (MongoDB, Express.js, React.js, Node.js) application** that 
 - **Search & Filtering**: Users can easily find cars based on specific criteria.
 
 ## Tech Stack
-- **Frontend**: React.js, Tailwind CSS (or your preferred UI framework)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
+- **Frontend**: React.js, Tailwind CSS, Styled Components, Framer Motion, React Router, React Icons, React Slick, Slick Carousel
+- **Backend**: Node.js, Express.js, MongoDB
+- **Authentication**: Passport.js (Local Strategy)
+- **API Handling**: Axios
 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/car-showcase.git
+   git clone [https://github.com/MrReaper781/Car-Showcase]
    cd car-showcase
    ```
 2. Install dependencies for both frontend and backend:
    ```sh
-   cd frontend
+   cd frontned
    npm install
    cd ../server
    npm install
