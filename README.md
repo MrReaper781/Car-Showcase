@@ -49,9 +49,3 @@ A **full-stack MERN (MongoDB, Express.js, React.js, Node.js) application** that 
 - Implement car booking or wishlist functionality.
 - Enhance filtering and sorting options.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to update this README based on any additional features or configurations you've added! 🚀
